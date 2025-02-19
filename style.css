@@ -1,4 +1,4 @@
-/* استایل پایه */
+کی/* استایل پایه */
 body {
     font-family: 'Iranian Sans', sans-serif;
     direction: rtl;
@@ -190,6 +190,5 @@ a:hover {
     line-height: 1.8;
 }
 logo-img {
-    Width: 200px;
-    height: 200px;
+    Width: 20px;
 } 
